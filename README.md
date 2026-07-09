@@ -205,19 +205,6 @@ My focus is on writing clean, maintainable, and scalable code while continuously
 
 ---
 
-# AI / Machine Learning Expertise
-
-| Domain | Proficiency | Description |
-|---------|------------|-------------|
-| Artificial Intelligence | ★★★★☆ | AI-enabled application development |
-| Prompt Engineering | ★★★★☆ | Designing effective prompts for LLMs |
-| Generative AI | ★★★★☆ | AI-assisted productivity workflows |
-| AI API Integration | ★★★★☆ | Integrating conversational AI services |
-| Machine Learning Concepts | ★★★☆☆ | Supervised & Unsupervised fundamentals |
-| AI Product Engineering | ★★★★☆ | Building AI-first software products |
-
----
-
 # Backend Engineering
 
 ### Expertise
@@ -256,17 +243,8 @@ My focus is on writing clean, maintainable, and scalable code while continuously
 
 | Database | Experience |
 |-----------|------------|
-| MongoDB | Application Development |
-| MySQL | Relational Database Design |
-
-### Concepts
-
-- CRUD Operations
-- Collections
-- Relationships
-- Data Modeling
-- Query Optimization Basics
-
+| MongoDB 
+| MySQL 
 ---
 
 # Cloud & DevOps
@@ -283,75 +261,6 @@ My focus is on writing clean, maintainable, and scalable code while continuously
 </div>
 
 ---
-
-# Software Engineering Principles
-
-✔ Clean Code
-
-✔ Object-Oriented Programming
-
-✔ RESTful API Design
-
-✔ Secure Authentication
-
-✔ Modular Architecture
-
-✔ Scalability
-
-✔ Maintainability
-
-✔ Version Control
-
-✔ Agile Development
-
-✔ Continuous Learning
-
----
-
-# Development Workflow
-
-```text
-Idea
-   │
-   ▼
-Planning
-   │
-   ▼
-System Design
-   │
-   ▼
-Backend Development
-   │
-   ▼
-Frontend Integration
-   │
-   ▼
-Database Design
-   │
-   ▼
-Testing
-   │
-   ▼
-Deployment
-   │
-   ▼
-Maintenance
-```
-
----
-
-# Current Learning Roadmap
-
-| Focus Area | Status |
-|------------|--------|
-| Advanced Spring Boot | 🚀 In Progress |
-| Microservices | 🚀 Learning |
-| Docker | 🚀 Learning |
-| Kubernetes | 📅 Planned |
-| AWS Services | 🚀 Improving |
-| System Design | 🚀 Continuous |
-| DSA in Java | 🚀 Daily Practice |
-| AI Integrations | 🚀 Active Development |
 
 ---
 
@@ -494,19 +403,6 @@ Jarvis AI is an enterprise-inspired full-stack productivity assistant designed t
 | Architecture | Modular |
 | Maintainability | High |
 | Scalability | Enterprise Ready |
-
----
-
-## Engineering Highlights
-
-- Clean Code Principles
-- Object-Oriented Design
-- Separation of Concerns
-- Reusable Components
-- Exception Handling
-- Secure Authentication
-- API-first Development
-- Production-ready Structure
 
 ---
 
@@ -1075,46 +971,6 @@ Building a strong engineering foundation through globally recognized certificati
 </a>
 
 </div>
-
----
-
-## Problem Solving Goals
-
-| Platform | Goal |
-|----------|------|
-| LeetCode | 500+ Problems |
-| HackerRank | 5★ Java |
-| GeeksforGeeks | Complete DSA Track |
-| CodeChef | Improve Competitive Programming Rating |
-
----
-
-# Learning Journey
-
-### 2023
-- Started B.Tech (Information Technology)
-- Learned Java Programming
-- Built foundational web development skills
-
-### 2024
-- Learned Spring Boot
-- Started React.js
-- Completed AWS & Cisco Certifications
-- Explored REST APIs
-
-### 2025
-- Started AI Development
-- Built Jarvis AI
-- Developed AgriHub
-- Learned MongoDB
-- Improved Backend Engineering
-
-### Future Goals
-- Master Microservices
-- Learn Kubernetes
-- Build Open Source Projects
-- Become an AI Software Engineer
-- Contribute to Large-Scale Products
 
 ---
 
