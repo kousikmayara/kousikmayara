@@ -38,7 +38,7 @@
 </a>
 
 <a href="https://github.com/kousikmayara/Portfolio">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
